@@ -1,8 +1,8 @@
 Uma tradução para a língua portuguesa do primeiro livro ilustrado para crianças! 
 
-== Licença ==
+## Licença 
 CC-BY-NC
 
-== Contribuidores == 
+## Contribuidores
 * Tiago Lubiana
 * Otto Heringer
